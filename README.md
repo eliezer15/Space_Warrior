@@ -1,7 +1,7 @@
 Space Warrior
 =============
 Space Warrior is a Kinect based action game geared towards visually impaired children,
-but that can be played and enjoyed by typical children as well.
+but that can be played and enjoyed by sighted children as well.
 
 The game was created using Microsoft's XNA framework and it uses the Microsoft Kinect to
 capture motion. The game can also be played with a keyboard.
