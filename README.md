@@ -17,3 +17,8 @@ A special kind of enemy is the dragon. The dragon appears on the middle of the s
 scream announces its arrival. The player cannot attack the dragon; the player can only put her arm in front
 of her face, as if covering herself. If the gesture is done correctly, the dragon will dissapear.
 
+** Important **
+
+The code in the Gesture Recognition folder was copied from the book 'Kinect for Windows SDK Programming Guide.'
+The classes RightSwordSlash, LeftSwordSlash, RightGuard, LeftGuard, and Push were written by using the gesture
+recognition API the author of aforementioned book.
